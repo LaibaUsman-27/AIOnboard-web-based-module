@@ -1,0 +1,800 @@
+.learnsphere-study {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .learnsphere-study .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .learnsphere-study .container {
+    position: absolute;
+    width: 1440px;
+    height: 320px;
+    top: 2350px;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper {
+    position: absolute;
+    top: 52px;
+    left: 695px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 272px;
+    height: 52px;
+    top: 216px;
+    left: 584px;
+    background-color: #636ae8;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: transparent;
+  }
+  
+  .learnsphere-study .text-wrapper-2 {
+    position: absolute;
+    top: 11px;
+    left: 52px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .download {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: -2084px;
+    left: -660px;
+  }
+  
+  .learnsphere-study .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 1150px;
+    top: 56px;
+    left: 0;
+  }
+  
+  .learnsphere-study .overlap-group {
+    position: absolute;
+    width: 1416px;
+    height: 1100px;
+    top: 50px;
+    left: 24px;
+  }
+  
+  .learnsphere-study .container-2 {
+    width: 720px;
+    height: 408px;
+    top: 0;
+    left: 696px;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-3 {
+    position: absolute;
+    top: 32px;
+    left: 42px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .overlap-2 {
+    position: absolute;
+    width: 618px;
+    height: 218px;
+    top: 75px;
+    left: 31px;
+    border-radius: 8px;
+  }
+  
+  .learnsphere-study .text-wrapper-4 {
+    position: absolute;
+    top: 26px;
+    left: 111px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .text-wrapper-5 {
+    position: absolute;
+    top: 26px;
+    left: 342px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .table {
+    position: absolute;
+    width: 618px;
+    height: 218px;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .header {
+    position: absolute;
+    width: 616px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .learnsphere-study .overlap-group-2 {
+    width: 618px;
+    height: 26px;
+    position: relative;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .learnsphere-study .frame {
+    position: absolute;
+    width: 183px;
+    height: 26px;
+    top: 0;
+    left: 0;
+    background-color: #fafafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .frame-2 {
+    position: absolute;
+    width: 219px;
+    height: 26px;
+    top: 0;
+    left: 181px;
+    background-color: #fafafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .frame-3 {
+    position: absolute;
+    width: 219px;
+    height: 26px;
+    top: 0;
+    left: 399px;
+    background-color: #fafafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .row {
+    position: absolute;
+    width: 616px;
+    height: 96px;
+    top: 24px;
+    left: 0;
+  }
+  
+  .learnsphere-study .overlap-3 {
+    position: relative;
+    width: 618px;
+    height: 98px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .learnsphere-study .image-wrapper {
+    position: absolute;
+    width: 183px;
+    height: 98px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .image {
+    position: absolute;
+    width: 80px;
+    height: 53px;
+    top: 22px;
+    left: 51px;
+  }
+  
+  .learnsphere-study .div-wrapper {
+    position: absolute;
+    width: 219px;
+    height: 98px;
+    top: 0;
+    left: 181px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-6 {
+    position: absolute;
+    width: 185px;
+    top: 37px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .frame-4 {
+    position: absolute;
+    width: 219px;
+    height: 98px;
+    top: 0;
+    left: 399px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .overlap-wrapper {
+    width: 616px;
+    height: 96px;
+    top: 120px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .learnsphere-study .container-3 {
+    width: 720px;
+    height: 784px;
+    top: 316px;
+    left: 0;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .table-2 {
+    position: absolute;
+    width: 638px;
+    height: 274px;
+    top: 73px;
+    left: 17px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .overlap-group-wrapper {
+    width: 636px;
+    height: 68px;
+    top: 46px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .learnsphere-study .overlap-group-3 {
+    width: 638px;
+    height: 70px;
+    position: relative;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .learnsphere-study .frame-5 {
+    position: absolute;
+    width: 189px;
+    height: 70px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-7 {
+    position: absolute;
+    width: 155px;
+    top: 12px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .frame-6 {
+    position: absolute;
+    width: 189px;
+    height: 70px;
+    top: 0;
+    left: 187px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-8 {
+    position: absolute;
+    width: 155px;
+    top: 23px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .slider-wrapper {
+    position: absolute;
+    width: 265px;
+    height: 70px;
+    top: 0;
+    left: 373px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .slider {
+    position: relative;
+    width: 192px;
+    height: 22px;
+    top: 23px;
+    left: 35px;
+  }
+  
+  .learnsphere-study .rectangle-wrapper {
+    position: relative;
+    height: 6px;
+    top: 8px;
+    background-color: #ced0f8;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  
+  .learnsphere-study .rectangle {
+    width: 192px;
+    height: 6px;
+    background-color: #636ae8;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .row-2 {
+    width: 636px;
+    height: 68px;
+    top: 114px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .learnsphere-study .rectangle-2 {
+    width: 144px;
+    height: 6px;
+    background-color: #636ae8;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .row-3 {
+    width: 636px;
+    height: 90px;
+    top: 182px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .learnsphere-study .overlap-4 {
+    position: relative;
+    width: 638px;
+    height: 92px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .learnsphere-study .frame-7 {
+    position: absolute;
+    width: 189px;
+    height: 92px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .frame-8 {
+    position: absolute;
+    width: 189px;
+    height: 92px;
+    top: 0;
+    left: 187px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-9 {
+    position: absolute;
+    width: 155px;
+    top: 34px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .frame-9 {
+    position: absolute;
+    width: 265px;
+    height: 92px;
+    top: 0;
+    left: 373px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .frame-wrapper {
+    position: relative;
+    width: 192px;
+    height: 22px;
+    top: 34px;
+    left: 35px;
+  }
+  
+  .learnsphere-study .rectangle-3 {
+    width: 96px;
+    height: 6px;
+    background-color: #636ae8;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .header-2 {
+    position: absolute;
+    width: 636px;
+    height: 46px;
+    top: 0;
+    left: 0;
+  }
+  
+  .learnsphere-study .overlap-5 {
+    position: relative;
+    width: 638px;
+    height: 48px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .learnsphere-study .frame-10 {
+    position: absolute;
+    width: 189px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    background-color: #fafafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .text-wrapper-10 {
+    position: absolute;
+    width: 155px;
+    top: 12px;
+    left: 16px;
+    font-family: "Archivo-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .frame-11 {
+    position: absolute;
+    width: 189px;
+    height: 48px;
+    top: 0;
+    left: 187px;
+    background-color: #fafafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .frame-12 {
+    position: absolute;
+    width: 265px;
+    height: 48px;
+    top: 0;
+    left: 373px;
+    background-color: #fafafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #dee1e6;
+  }
+  
+  .learnsphere-study .text-wrapper-11 {
+    width: 231px;
+    top: 12px;
+    left: 16px;
+    font-family: "Archivo-SemiBold", Helvetica;
+    font-weight: 600;
+    text-align: center;
+    position: absolute;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .container-4 {
+    width: 720px;
+    height: 298px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-12 {
+    position: absolute;
+    top: 32px;
+    left: 52px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .container-5 {
+    width: 656px;
+    height: 162px;
+    top: 104px;
+    left: 32px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .text-wrapper-13 {
+    position: absolute;
+    width: 624px;
+    top: 50px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .text-wrapper-14 {
+    position: absolute;
+    width: 624px;
+    top: 16px;
+    left: 16px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #171a1f;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .learnsphere-study .text-wrapper-15 {
+    position: absolute;
+    width: 624px;
+    top: 80px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .learnsphere-study .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 624px;
+    height: 36px;
+    top: 110px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #636ae8;
+  }
+  
+  .learnsphere-study .text-wrapper-16 {
+    position: absolute;
+    top: 6px;
+    left: 272px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #636ae8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .container-6 {
+    width: 1440px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .avatar {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 1380px;
+    background-color: #f3f4f6;
+    border-radius: 18px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .learnsphere-study .img {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+  }
+  
+  .learnsphere-study .text-wrapper-17 {
+    position: absolute;
+    top: 7px;
+    left: 70px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 42px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .bell {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 1340px;
+  }
+  
+  .learnsphere-study .settings-gear {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 1300px;
+  }
+  
+  .learnsphere-study .image-2 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 13px;
+    left: 22px;
+  }
+  
+  .learnsphere-study .frame-13 {
+    position: absolute;
+    width: 112px;
+    height: 52px;
+    top: 4px;
+    left: 278px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .learnsphere-study .text-wrapper-18 {
+    position: absolute;
+    top: 14px;
+    left: 28px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .learnsphere-study .frame-14 {
+    position: absolute;
+    width: 97px;
+    height: 52px;
+    top: 4px;
+    left: 390px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .learnsphere-study .frame-15 {
+    position: absolute;
+    width: 97px;
+    height: 52px;
+    top: 4px;
+    left: 487px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  

@@ -1,0 +1,492 @@
+.projectpro-projects {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .projectpro-projects .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .projectpro-projects .container {
+    position: absolute;
+    width: 1184px;
+    height: 776px;
+    top: 56px;
+    left: 256px;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .projectpro-projects .text-wrapper {
+    position: absolute;
+    top: 32px;
+    left: 52px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 150px;
+    height: 36px;
+    top: 32px;
+    left: 168px;
+    background-color: #636ae8;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: transparent;
+  }
+  
+  .projectpro-projects .text-wrapper-2 {
+    position: absolute;
+    top: 6px;
+    left: 45px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .sort-tool {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 23px;
+  }
+  
+  .projectpro-projects .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    width: 150px;
+    top: 32px;
+    left: 328px;
+    background-color: #636ae8;
+    border-radius: 8px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .projectpro-projects .text-wrapper-3 {
+    position: absolute;
+    top: 6px;
+    left: 46px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .d-add {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 24px;
+  }
+  
+  .projectpro-projects .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    width: 200px;
+    top: 708px;
+    left: 512px;
+    background-color: #f2f2fd;
+    border-radius: 8px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .projectpro-projects .text-wrapper-4 {
+    position: absolute;
+    top: 6px;
+    left: 70px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #636ae8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .view {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 48px;
+  }
+  
+  .projectpro-projects .container-2 {
+    width: 362px;
+    height: 166px;
+    top: 105px;
+    left: 47px;
+    border-radius: 6px;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .projectpro-projects .image {
+    position: absolute;
+    width: 160px;
+    height: 134px;
+    top: 16px;
+    left: 186px;
+  }
+  
+  .projectpro-projects .text-wrapper-5 {
+    position: absolute;
+    width: 154px;
+    top: 16px;
+    left: 16px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .projectpro-projects .text-wrapper-6 {
+    position: absolute;
+    width: 154px;
+    top: 54px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .projectpro-projects .text-wrapper-7 {
+    position: absolute;
+    width: 154px;
+    top: 84px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .projectpro-projects .div-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    width: 107px;
+    top: 114px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border-color: #636ae8;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .projectpro-projects .text-wrapper-8 {
+    top: 6px;
+    left: 12px;
+    color: #636ae8;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .projectpro-projects .container-3 {
+    width: 362px;
+    height: 166px;
+    top: 106px;
+    left: 592px;
+    border-radius: 6px;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .projectpro-projects .container-4 {
+    width: 256px;
+    height: 844px;
+    top: 56px;
+    left: 0;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .projectpro-projects .avatar {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 780px;
+    left: 16px;
+    background-color: #ced0f8;
+    border-radius: 22px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .projectpro-projects .overlap-group {
+    height: 44px;
+    background-image: url(./img/rectangle.png);
+    background-size: 100% 100%;
+  }
+  
+  .projectpro-projects .frame {
+    position: relative;
+    width: 11px;
+    height: 11px;
+    top: 32px;
+    left: 32px;
+    background-color: #1dd75b;
+    border-radius: 5.5px;
+    border: 1.5px solid;
+    border-color: #ffffff;
+  }
+  
+  .projectpro-projects .text {
+    position: absolute;
+    top: -1px;
+    left: 6px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 11px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .text-wrapper-9 {
+    width: 121px;
+    top: 806px;
+    left: 72px;
+    color: #565e6c;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .projectpro-projects .settings {
+    top: 792px;
+    left: 216px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .projectpro-projects .text-wrapper-10 {
+    position: absolute;
+    width: 121px;
+    top: 780px;
+    left: 72px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .projectpro-projects .sidebar-menu {
+    position: absolute;
+    width: 224px;
+    height: 96px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .projectpro-projects .frame-2 {
+    position: absolute;
+    width: 224px;
+    height: 48px;
+    top: 0;
+    left: 0;
+  }
+  
+  .projectpro-projects .text-wrapper-11 {
+    position: absolute;
+    width: 156px;
+    top: 10px;
+    left: 52px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .projectpro-projects .img {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .projectpro-projects .frame-3 {
+    position: absolute;
+    width: 224px;
+    height: 48px;
+    top: 48px;
+    left: 0;
+  }
+  
+  .projectpro-projects .container-5 {
+    width: 1440px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .projectpro-projects .rectangle-wrapper {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 1380px;
+    background-color: #171a1f;
+    border-radius: 18px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .projectpro-projects .rectangle {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+  }
+  
+  .projectpro-projects .frame-4 {
+    position: absolute;
+    width: 97px;
+    height: 52px;
+    top: 2px;
+    left: 246px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .projectpro-projects .rectangle-2 {
+    position: absolute;
+    width: 97px;
+    height: 4px;
+    top: 48px;
+    left: 0;
+    background-color: #636ae8;
+    border-radius: 2px;
+    border: 0px none;
+  }
+  
+  .projectpro-projects .text-wrapper-12 {
+    position: absolute;
+    top: 14px;
+    left: 20px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #636ae8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .frame-5 {
+    position: absolute;
+    width: 80px;
+    height: 52px;
+    top: 2px;
+    left: 343px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .projectpro-projects .text-wrapper-13 {
+    position: absolute;
+    top: 14px;
+    left: 20px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .projectpro-projects .frame-6 {
+    position: absolute;
+    width: 80px;
+    height: 52px;
+    top: 2px;
+    left: 424px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .projectpro-projects .b-meeting {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 1340px;
+  }
+  
+  .projectpro-projects .settings-gear {
+    top: 16px;
+    left: 1300px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  

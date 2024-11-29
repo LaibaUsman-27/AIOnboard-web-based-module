@@ -1,0 +1,656 @@
+.onboard-AI-my-tasks {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .onboard-AI-my-tasks .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .onboard-AI-my-tasks .container {
+    position: absolute;
+    width: 1440px;
+    height: 1220px;
+    top: 203px;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper {
+    position: absolute;
+    top: 52px;
+    left: 92px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .overlap-wrapper {
+    width: 1296px;
+    height: 196px;
+    top: 114px;
+    left: 72px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .overlap {
+    position: relative;
+    width: 1640px;
+    height: 196px;
+    top: 8px;
+    left: 16px;
+  }
+  
+  .onboard-AI-my-tasks .overlap-group {
+    position: absolute;
+    width: 1640px;
+    height: 196px;
+    top: 0;
+    left: 0;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-2 {
+    position: absolute;
+    width: 1264px;
+    top: 8px;
+    left: 0;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-3 {
+    top: 46px;
+    left: 0;
+    position: absolute;
+    width: 1264px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-4 {
+    position: absolute;
+    width: 1264px;
+    top: 76px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .overlap-group-wrapper {
+    width: 1296px;
+    height: 196px;
+    top: 0;
+    left: 344px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .overlap-2 {
+    position: relative;
+    width: 1656px;
+    height: 196px;
+    top: -11px;
+  }
+  
+  .onboard-AI-my-tasks .overlap-group-2 {
+    position: absolute;
+    width: 1656px;
+    height: 196px;
+    top: 0;
+    left: 0;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-5 {
+    position: absolute;
+    width: 1264px;
+    top: 11px;
+    left: 0;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-6 {
+    position: absolute;
+    width: 1264px;
+    top: 57px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-7 {
+    position: absolute;
+    width: 1264px;
+    top: 84px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .container-2 {
+    width: 1296px;
+    height: 196px;
+    top: 0;
+    left: 360px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-8 {
+    position: absolute;
+    width: 1264px;
+    top: 8px;
+    left: -8px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-9 {
+    top: 68px;
+    left: -8px;
+    position: absolute;
+    width: 1264px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-10 {
+    position: absolute;
+    width: 1264px;
+    top: 90px;
+    left: -8px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .button {
+    all: unset;
+    box-sizing: border-box;
+    top: 129px;
+    left: -16px;
+    position: absolute;
+    width: 125px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #636ae8;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-11 {
+    position: absolute;
+    top: 6px;
+    left: 12px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #636ae8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .div-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    top: 144px;
+    left: 0;
+    position: absolute;
+    width: 125px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #636ae8;
+  }
+  
+  .onboard-AI-my-tasks .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    top: 136px;
+    left: 0;
+    position: absolute;
+    width: 125px;
+    height: 36px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #636ae8;
+  }
+  
+  .onboard-AI-my-tasks .container-3 {
+    width: 1296px;
+    height: 196px;
+    top: 760px;
+    left: 72px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-12 {
+    position: absolute;
+    width: 1264px;
+    top: 16px;
+    left: 16px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-13 {
+    position: absolute;
+    width: 1264px;
+    top: 54px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-14 {
+    position: absolute;
+    width: 1264px;
+    top: 84px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a0;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .onboard-AI-my-tasks .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    width: 125px;
+    top: 144px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border-color: #636ae8;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .onboard-AI-my-tasks .container-4 {
+    width: 1296px;
+    height: 196px;
+    top: 972px;
+    left: 72px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .overlap-3 {
+    position: absolute;
+    width: 1440px;
+    height: 187px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .onboard-AI-my-tasks .container-5 {
+    width: 1440px;
+    height: 140px;
+    top: 47px;
+    left: 0;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 140px;
+    height: 36px;
+    top: 52px;
+    left: 92px;
+    background-color: #636ae8;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: transparent;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-15 {
+    position: absolute;
+    top: 6px;
+    left: 49px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .b-meeting {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 27px;
+  }
+  
+  .onboard-AI-my-tasks .button-5 {
+    all: unset;
+    box-sizing: border-box;
+    width: 140px;
+    top: 52px;
+    left: 252px;
+    background-color: #f2f2fd;
+    border-radius: 8px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-16 {
+    position: absolute;
+    top: 6px;
+    left: 40px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #636ae8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .img {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 18px;
+  }
+  
+  .onboard-AI-my-tasks .button-6 {
+    all: unset;
+    box-sizing: border-box;
+    width: 140px;
+    top: 52px;
+    left: 432px;
+    background-color: #9095a0;
+    border-radius: 8px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-17 {
+    left: 38px;
+    position: absolute;
+    top: 6px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .skipping-rope {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .onboard-AI-my-tasks .button-7 {
+    all: unset;
+    box-sizing: border-box;
+    width: 155px;
+    top: 52px;
+    left: 592px;
+    background-color: #9095a0;
+    border-radius: 8px;
+    border-color: transparent;
+    position: absolute;
+    height: 36px;
+    overflow: hidden;
+    border: 1px solid;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-18 {
+    left: 34px;
+    position: absolute;
+    top: 6px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .stopwatch {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 12px;
+  }
+  
+  .onboard-AI-my-tasks .container-6 {
+    width: 1440px;
+    height: 56px;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+    position: absolute;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .avatar {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 1380px;
+    background-color: #f8cedb;
+    border-radius: 18px;
+    overflow: hidden;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .rectangle {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-19 {
+    position: absolute;
+    top: 7px;
+    left: 70px;
+    font-family: "Archivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 42px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .bell {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 1340px;
+  }
+  
+  .onboard-AI-my-tasks .user {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 1300px;
+  }
+  
+  .onboard-AI-my-tasks .image {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 7px;
+    left: 20px;
+  }
+  
+  .onboard-AI-my-tasks .frame {
+    position: absolute;
+    width: 99px;
+    height: 52px;
+    top: -1px;
+    left: 262px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .onboard-AI-my-tasks .rectangle-2 {
+    position: absolute;
+    width: 99px;
+    height: 4px;
+    top: 48px;
+    left: 0;
+    background-color: #636ae8;
+    border-radius: 2px;
+    border: 0px none;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-20 {
+    position: absolute;
+    top: 14px;
+    left: 28px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #636ae8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .frame-2 {
+    width: 112px;
+    left: 361px;
+    position: absolute;
+    height: 52px;
+    top: -1px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .onboard-AI-my-tasks .text-wrapper-21 {
+    position: absolute;
+    top: 14px;
+    left: 28px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #565e6c;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .onboard-AI-my-tasks .frame-3 {
+    width: 97px;
+    left: 473px;
+    position: absolute;
+    height: 52px;
+    top: -1px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
